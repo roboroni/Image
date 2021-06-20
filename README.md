@@ -1,2 +1,2 @@
-# Image
-Advanced Methods In Medical Image Processing
+# Advanced Methods In Medical Image Processing project
+
